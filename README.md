@@ -28,7 +28,7 @@ cd 9-for-loop
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-9-Forloop)
 
 
 ![screenshot](forloop-screenshot.jpg)
